@@ -2,8 +2,10 @@
 
 Undergraduate student of Informatics Engineering UIN Malang
 
-||||||
-|-----|-----|-----|-----|-----|
+| No | Hari/Tgl | Praktikum ke- | Topik | Laporan | Repository |
+|-----|-----|-----|-----|-----|-----|
+|||||||
+|||||||
 <!--
 **theaam/theaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
