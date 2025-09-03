@@ -1,6 +1,9 @@
 ## Hi, I'm Muammal 👋
 
 Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malang
+- Nama: M Muammal
+- NIM: 230605110004
+- Kelas: B
 
 | No | Hari/Tgl | Praktikum ke- | Topik | Laporan | Repository |
 |-----|-----|-----|-----|-----|-----|
