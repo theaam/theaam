@@ -1,11 +1,19 @@
 ## Hi, I'm Muammal 👋
 
-Undergraduate student of Informatics Engineering UIN Malang
+Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malang
 
 | No | Hari/Tgl | Praktikum ke- | Topik | Laporan | Repository |
 |-----|-----|-----|-----|-----|-----|
-|||||||
-|||||||
+|1||||||
+|2||||||
+|3||||||
+|4||||||
+|5||||||
+|6||||||
+|7||||||
+|8||||||
+|9||||||
+|10||||||
 <!--
 **theaam/theaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
