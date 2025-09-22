@@ -7,7 +7,7 @@ Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malan
 
 | No | Hari/Tgl | Praktikum ke- | Topik | Laporan | Repository |
 |-----|-----|-----|-----|-----|-----|
-|1|Rabu, 03/09/2025| 1 |Pengenalan Mobile Programming dan Setup Lingkungan|[Laporan_Modul_1](https://drive.google.com/file/d/1XA89IzYzI7zrNtDBl1ZvxyVXGk1zuycP/view?usp=drive_link)||
+|1|Rabu, 03/09/2025| 1 |Pengenalan Mobile Programming dan Setup Lingkungan|[Laporan Modul 1](https://drive.google.com/file/d/1XA89IzYzI7zrNtDBl1ZvxyVXGk1zuycP/view?usp=drive_link)||
 |2||||||
 |3||||||
 |4||||||
