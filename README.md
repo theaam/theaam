@@ -16,11 +16,11 @@ Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malan
 |7|Rabu, 24/09/2025| 4 |Navigasi MaterialPageRoute|||
 |8|Rabu, 24/09/2025| 4 |Navigasi Antar Halaman|||
 |9|Rabu, 01/10/2025| 5 |StatefulWidget|||
-|10|Rabu, 08/10/2025|||||
-|11|Rabu, 15/10/2025|||||
-|12|Rabu, 22/10/2025|||||
+|10|Rabu, 08/10/2025| 6 |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|||
+|11|Rabu, 15/10/2025| 7 |Manajemen State dengan GetX|||
+|12|Rabu, 22/10/2025| 8 |UTS|||
 |13|Rabu, 29/10/2025|||||
-|14|Rabu, 05/11/2025|||||
+|14|Rabu, 05/11/2025||Akses Lokasi dengan GPS di Flutter|||
 
 <!--
 **theaam/theaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
