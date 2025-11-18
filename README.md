@@ -18,7 +18,7 @@ Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malan
 |9.|Rabu, 01/10/2025| 5 |StatefulWidget|||
 |10.|Rabu, 08/10/2025| 6 |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|||
 |11.|Rabu, 15/10/2025| 7 |Manajemen State dengan GetX|||
-|12.|Rabu, 22/10/2025| 8 |UTS|||
+|12.|Rabu, 22/10/2025| 8 |UTS|[UTS](https://drive.google.com/file/d/1FdoqdNsiD-O6VKOhpfDwlPuv7V8r_tZ4/view?usp=drive_link)|[UTS](https://github.com/theaam/UTS)|
 |13.|Rabu, 29/10/2025| 9 ||||
 |14.|Rabu, 05/11/2025| 10 |Akses Lokasi dengan GPS di Flutter|[Modul 12](https://drive.google.com/file/d/1GvSXeAm5mDt_KqNm_x3nNDben1NZcrUl/view?usp=drive_link)|[Tugas 12](https://github.com/theaam/Tugas-12)|
 
