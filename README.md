@@ -13,14 +13,14 @@ Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malan
 |4.|Rabu, 10/09/2025| 2 |Widget Flexible dan Expanded|[Modul 4](https://drive.google.com/file/d/1FUkD0WsH4Tj_XeVSl0eKsyJtWQpSrxf7/view?usp=drive_link)|[Tugas 4](https://github.com/theaam/Tugas-4)|
 |5.|Rabu, 17/09/2025| 3 |Widget SizedBox, Spacer, dan Card|[Modul 5](https://drive.google.com/file/d/1jXwBCqU4EtmFcK7uUt0TeaNb4qPAf4R9/view?usp=drive_link)|[Tugas 5](https://github.com/theaam/Tugas-5)|
 |6.|Rabu, 17/09/2025| 3 |Widget GridView, ListView, GridView.builder, dan ListView.builder|||
-|7.|Rabu, 24/09/2025| 4 |Navigasi MaterialPageRoute dan NamedRoute|||
-|8.|Rabu, 24/09/2025| 4 |Navigasi Antar Halaman|||
+|7.|Rabu, 24/09/2025| 4 |Navigasi Antar Halaman dengan MaterialPageRoute dan NamedRoute|||
+|8.|Rabu, 24/09/2025| 4 |Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route|||
 |9.|Rabu, 01/10/2025| 5 |StatefulWidget|||
 |10.|Rabu, 08/10/2025| 6 |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|||
 |11.|Rabu, 15/10/2025| 7 |Manajemen State dengan GetX|||
 |12.|Rabu, 22/10/2025| 8 |UTS|[UTS](https://drive.google.com/file/d/1FdoqdNsiD-O6VKOhpfDwlPuv7V8r_tZ4/view?usp=drive_link)|[UTS](https://github.com/theaam/UTS)|
-|13.|Rabu, 29/10/2025| 9 ||||
-|14.|Rabu, 05/11/2025| 10 |Akses Lokasi dengan GPS di Flutter|[Modul 12](https://drive.google.com/file/d/1GvSXeAm5mDt_KqNm_x3nNDben1NZcrUl/view?usp=drive_link)|[Tugas 12](https://github.com/theaam/Tugas-12)|
+|13.|Rabu, 29/10/2025| 9 |Akses Lokasi dengan GPS di Flutter|[Modul 12](https://drive.google.com/file/d/1GvSXeAm5mDt_KqNm_x3nNDben1NZcrUl/view?usp=drive_link)|[Tugas 12](https://github.com/theaam/Tugas-12)|
+|14.|Rabu, 05/11/2025| 10 |||
 
 <!--
 **theaam/theaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
