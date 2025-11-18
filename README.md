@@ -20,7 +20,7 @@ Undergraduate student of Informatics Engineering UIN Maulana Malik Ibrahim Malan
 |11.|Rabu, 15/10/2025| 7 |Manajemen State dengan GetX|||
 |12.|Rabu, 22/10/2025| 8 |UTS|[UTS](https://drive.google.com/file/d/1FdoqdNsiD-O6VKOhpfDwlPuv7V8r_tZ4/view?usp=drive_link)|[UTS](https://github.com/theaam/UTS)|
 |13.|Rabu, 29/10/2025| 9 |Akses Lokasi dengan GPS di Flutter|[Modul 12](https://drive.google.com/file/d/1GvSXeAm5mDt_KqNm_x3nNDben1NZcrUl/view?usp=drive_link)|[Tugas 12](https://github.com/theaam/Tugas-12)|
-|14.|Rabu, 05/11/2025| 10 |||
+|14.|Rabu, 05/11/2025| 10 |Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API|||
 
 <!--
 **theaam/theaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
